@@ -1,0 +1,4 @@
+Car 1000000
+Mac 100000
+iphone 5000
+Meat 200
