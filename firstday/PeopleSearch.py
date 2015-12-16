@@ -1,3 +1,7 @@
+import os
+import sys
+
+
 while True:
     name = raw_input("your name")
     if name == 'xsun':
